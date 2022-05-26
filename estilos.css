@@ -1,0 +1,18 @@
+.texto{
+    font-family: 'Indie Flower', cursive;
+}
+
+.justificar{
+    text-align: justify;
+}
+
+.fondo{
+    background-color: #FFC300;
+    color:black;
+    text-size-adjust: 32px;
+}
+
+.fondo2{
+    background-color: #FF3333;
+    color: black;
+}
