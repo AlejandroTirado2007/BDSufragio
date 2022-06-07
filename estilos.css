@@ -21,3 +21,17 @@
     background-color: #FF3333;
     color: black;
 }
+
+.navbartexto{
+    font-size: 22px;
+}
+
+.centro{
+    text-align: center;
+}
+
+.textocentrado{
+    vertical-align: middle;
+    text-align: center;
+}
+
